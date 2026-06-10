@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
- const inventoryTransactionSchema = new mongoose.Schema({
+const inventoryTransactionSchema = new mongoose.Schema({
 
     })
 
