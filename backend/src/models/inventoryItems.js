@@ -4,4 +4,4 @@ const inventoryItemSchema = new mongoose.Schema({
 
 })
 
-module.exports = mongoose.model('InventoryItems', inventoryItemsSchema);
+module.exports = mongoose.model('InventoryItems', inventoryItemSchema);
